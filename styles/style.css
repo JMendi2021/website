@@ -1,6 +1,12 @@
 body {
     margin: 0;
     font-family: 'Fira Code',Arial, Helvetica, sans-serif;
+    background-color: #c6c6d2;
+  }
+
+  a, a:visited, a:hover, a:active {
+   color: blueviolet;
+   text-decoration:  none;
   }
  
   hr {
@@ -13,7 +19,7 @@ body {
   
   .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: #5755aa;
     margin: auto;
 
   }
@@ -32,11 +38,20 @@ body {
     color: black;
   }
   
-  .navbar a.active {
-    background-color: #04AA6D;
-    color: white;
-  }
-  
   footer {
     text-align: center;
+    color: black;
   }
+
+  .years {
+    margin-bottom: 8%;
+  }
+
+  /* 
+#5755aa
+#8280ff
+#bbb9ff
+#d2d2e0
+#a5a5c0
+#7878a1
+  */
