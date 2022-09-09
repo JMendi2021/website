@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Fira Code',Arial, Helvetica, sans-serif;
-    background-color: #c6c6d2;
+    background-image: url('../resources/Images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg');
   }
 
   a, a:visited, a:hover, a:active {
@@ -14,7 +14,10 @@ body {
   }
 
   .container {
-    margin: 10px;
+    margin: 2%;
+    padding: 2%;
+    background-color: #c6c6d2;
+    border-radius: 25px;
   }
   
   .navbar {
@@ -28,9 +31,9 @@ body {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 10px 10px;
+    padding: 10px 20px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 30px;
   }
   
   .navbar a:hover {
@@ -38,15 +41,21 @@ body {
     color: black;
   }
   
-  footer {
+  .ftr {
     text-align: center;
     color: black;
+    margin-bottom: 2%;
+  }
+  .ftr a {
+    color: white;
+    font-size: 150%;
   }
 
   .years {
-    margin-bottom: 8%;
+    margin-bottom: 1%;
   }
 
+  
   /* 
 #5755aa
 #8280ff
