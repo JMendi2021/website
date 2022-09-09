@@ -1,8 +1,7 @@
 body {
     margin: 0;
     font-family: 'Fira Code',Arial, Helvetica, sans-serif;
-    background-image: url('../resources/Images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg');
-  }
+    background-image: url('../resources/Images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg'); /*Image by Vincentiu Solomon https://unsplash.com/@vincentiu*/  }
 
   a, a:visited, a:hover, a:active {
    color: blueviolet;
